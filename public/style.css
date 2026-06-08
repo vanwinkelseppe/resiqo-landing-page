@@ -9,7 +9,9 @@
   --blue-light:  #1a6bbf;
   --blue-bg:     #eef4fb;
   --green:       #58854C;
+  --green-light: #6fa060;
   --orange:      #F8862A;
+  --orange-dark: #d9721f;
   --gray:        #777777;
   --text:        #1c2a3a;
   --border:      #dde4ed;
@@ -102,7 +104,7 @@ h1 {
 }
 
 .accent {
-  color: var(--blue);
+  color: var(--green);
 }
 
 /* ── Subtitle ─────────────────────────────────────────────────────────────── */
@@ -169,7 +171,7 @@ h1 {
 .btn {
   display: inline-flex;
   align-items: center;
-  background: var(--blue);
+  background: var(--orange);
   color: #fff;
   text-decoration: none;
   font-family: var(--font);
@@ -181,7 +183,7 @@ h1 {
 }
 
 .btn:hover {
-  background: var(--blue-light);
+  background: var(--orange-dark);
 }
 
 /* ── Footer ───────────────────────────────────────────────────────────────── */
