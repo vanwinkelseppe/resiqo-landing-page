@@ -47,8 +47,8 @@ header {
 
 .logo {
   height: auto;
-  max-width: 240px;
-  /* white background on PNG blends with page */
+  width: 100%;
+  max-width: 420px;
 }
 
 /* ── Main ─────────────────────────────────────────────────────────────────── */
