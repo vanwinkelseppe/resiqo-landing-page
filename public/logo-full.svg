@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 408" fill="none" role="img" aria-label="Resiqo — More time for people. Less time for paperwork.">
+  
+  <g transform="translate(105 0) scale(0.625)">
+    <path d="M52 176 V98 L41 98 L120 33 L199 98 L188 98 V176" stroke="#0b2f6b" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"></path>
+    <g fill="#2fc6b3">
+      <rect x="106" y="61" width="12" height="12" rx="2.5"></rect>
+      <rect x="122" y="61" width="12" height="12" rx="2.5"></rect>
+      <rect x="106" y="77" width="12" height="12" rx="2.5"></rect>
+      <rect x="122" y="77" width="12" height="12" rx="2.5"></rect>
+    </g>
+    <circle cx="93" cy="116" r="15" fill="#1f5fe0"></circle>
+    <circle cx="147" cy="116" r="15" fill="#2fc6b3"></circle>
+    <path d="M120 188 C104 165 72 158 72 131 C72 114 86 106 99 106 C111 106 117 114 120 124" stroke="#1f5fe0" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M120 188 C136 165 168 158 168 131 C168 114 154 106 141 106 C129 106 123 114 120 124" stroke="#2fc6b3" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"></path>
+  </g>
+  
+  <text x="180" y="300" text-anchor="middle" font-family="Manrope, &#39;Segoe UI&#39;, system-ui, sans-serif" font-weight="700" font-size="76" letter-spacing="-1">
+    <tspan fill="#0b2f6b">Resi</tspan><tspan fill="#2fc6b3">qo</tspan>
+  </text>
+  
+  <line x1="92" y1="343" x2="110" y2="343" stroke="#2fc6b3" stroke-width="3" stroke-linecap="round"></line>
+  <line x1="250" y1="343" x2="268" y2="343" stroke="#2fc6b3" stroke-width="3" stroke-linecap="round"></line>
+  <text x="180" y="349" text-anchor="middle" font-family="Manrope, &#39;Segoe UI&#39;, system-ui, sans-serif" font-weight="500" font-size="18" fill="#0b2f6b">More time for people.</text>
+  <text x="180" y="377" text-anchor="middle" font-family="Manrope, &#39;Segoe UI&#39;, system-ui, sans-serif" font-weight="500" font-size="18" fill="#0b2f6b">Less time for paperwork.</text>
+</svg>
